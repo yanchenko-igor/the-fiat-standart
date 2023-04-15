@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="bookid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <meta content="Adobe InDesign 16.4" name="generator" />
+    <meta name="cover" content="SaifedeanAmmous_FrontCover_Lock_SourceFiles.jpg" />
+    <dc:title>The Fiat Standard</dc:title>
+    <dc:creator>Saifedean Ammous</dc:creator>
+    <dc:subject />
+    <dc:description>The Debt Slavery Alternative to Human Civilization</dc:description>
+    <dc:publisher>The Saif House</dc:publisher>
+    <dc:date>2021</dc:date>
+    <dc:source />
+    <dc:relation />
+    <dc:coverage />
+    <dc:rights>© 2021 Saifedean Ammous</dc:rights>
+    <dc:language>en-US</dc:language>
+    <dc:identifier id="bookid">urn:uuid:DDDAE90F-9938-4964-83AE-A72298E612A4</dc:identifier>
+    <meta content="0.9.12" name="Sigil version" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2021-10-19</dc:date>
+  </metadata>
+  <manifest>
+    <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Fiat_Standard_-Ammous-_interiors-FINAL-epub" href="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="idGeneratedStyles.css" href="Styles/idGeneratedStyles.css" media-type="text/css"/>
+    <item id="GaramondPremrPro-Bd.otf" href="Fonts/GaramondPremrPro-Bd.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="GaramondPremrPro-It.otf" href="Fonts/GaramondPremrPro-It.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="GaramondPremrPro-Smbd.otf" href="Fonts/GaramondPremrPro-Smbd.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="GaramondPremrPro-SmbdIt.otf" href="Fonts/GaramondPremrPro-SmbdIt.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="GaramondPremrPro.otf" href="Fonts/GaramondPremrPro.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="x1.png" href="Images/1.png" media-type="image/png"/>
+    <item id="x2.png" href="Images/2.png" media-type="image/png"/>
+    <item id="Saifedean_Ammous_CustomImprint_Logotype_Final.png" href="Images/Saifedean_Ammous_CustomImprint_Logotype_Final.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_FrontCover_Lock_SourceFiles.jpg" href="Images/SaifedeanAmmous_FrontCover_Lock_SourceFiles.jpg" media-type="image/jpeg"/>
+    <item id="SaifedeanAmmous_Graphic_1_R1.png" href="Images/SaifedeanAmmous_Graphic_1_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_2_R1.png" href="Images/SaifedeanAmmous_Graphic_2_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_3_R1.png" href="Images/SaifedeanAmmous_Graphic_3_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_4_R1.png" href="Images/SaifedeanAmmous_Graphic_4_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_5_R1.png" href="Images/SaifedeanAmmous_Graphic_5_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_6_R1.png" href="Images/SaifedeanAmmous_Graphic_6_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_7_R1.png" href="Images/SaifedeanAmmous_Graphic_7_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_8_R1.png" href="Images/SaifedeanAmmous_Graphic_8_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_9_R1.png" href="Images/SaifedeanAmmous_Graphic_9_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_10_R1.png" href="Images/SaifedeanAmmous_Graphic_10_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_11_R1.png" href="Images/SaifedeanAmmous_Graphic_11_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_12_R1.png" href="Images/SaifedeanAmmous_Graphic_12_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_13_R1.png" href="Images/SaifedeanAmmous_Graphic_13_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_14_R1.png" href="Images/SaifedeanAmmous_Graphic_14_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_15_R1.png" href="Images/SaifedeanAmmous_Graphic_15_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_16_R1.png" href="Images/SaifedeanAmmous_Graphic_16_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_17_R1.png" href="Images/SaifedeanAmmous_Graphic_17_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_18_R1.png" href="Images/SaifedeanAmmous_Graphic_18_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_19_R1.png" href="Images/SaifedeanAmmous_Graphic_19_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_20_R1.png" href="Images/SaifedeanAmmous_Graphic_20_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_21_R1.png" href="Images/SaifedeanAmmous_Graphic_21_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_22_R1.png" href="Images/SaifedeanAmmous_Graphic_22_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_23_R1.png" href="Images/SaifedeanAmmous_Graphic_23_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_24_R1.png" href="Images/SaifedeanAmmous_Graphic_24_R1.png" media-type="image/png"/>
+    <item id="SaifedeanAmmous_Graphic_25_R1.png" href="Images/SaifedeanAmmous_Graphic_25_R1.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="Fiat_Standard_-Ammous-_interiors-FINAL-epub"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

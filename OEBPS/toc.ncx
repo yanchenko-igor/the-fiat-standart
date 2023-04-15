@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:DDDAE90F-9938-4964-83AE-A72298E612A4" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Fiat Standard</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>About the Author</text>
+      </navLabel>
+      <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Supporters</text>
+      </navLabel>
+      <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Foreword by Ross Stevens</text>
+      </navLabel>
+      <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Part I. Fiat Money</text>
+      </navLabel>
+      <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_4"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>1. Introduction</text>
+        </navLabel>
+        <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>2. The Never-Ending Bank Holiday</text>
+        </navLabel>
+        <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>3. Fiat Technology</text>
+        </navLabel>
+        <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>4. Fiat Mining</text>
+        </navLabel>
+        <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>5. Fiat Balances: Universal Debt Slavery</text>
+        </navLabel>
+        <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>6. What Is Fiat Good For?</text>
+        </navLabel>
+        <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Part II. Fiat Life</text>
+      </navLabel>
+      <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_11"/>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>7. Fiat Life</text>
+        </navLabel>
+        <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>8. Fiat Food</text>
+        </navLabel>
+        <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>9. Fiat Science</text>
+        </navLabel>
+        <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>10. Fiat Fuels</text>
+        </navLabel>
+        <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>11. Fiat States</text>
+        </navLabel>
+        <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>12. Fiat Cost-Benefit Analysis</text>
+        </navLabel>
+        <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Part III. The Fiat Liquidator</text>
+      </navLabel>
+      <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_18"/>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>13. Why Bitcoin Fixes This</text>
+        </navLabel>
+        <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>14. Bitcoin Scaling</text>
+        </navLabel>
+        <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>15. Bitcoin Banking</text>
+        </navLabel>
+        <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>16. Bitcoin and Energy Markets</text>
+        </navLabel>
+        <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>17. Bitcoin Cost-Benefit Analysis</text>
+        </navLabel>
+        <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>18. Can Bitcoin Fix This</text>
+        </navLabel>
+        <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Acknowledgments</text>
+      </navLabel>
+      <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_25"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Bibliography</text>
+      </navLabel>
+      <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_26"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>List of Figures</text>
+      </navLabel>
+      <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_27"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Notes</text>
+      </navLabel>
+      <content src="Text/Fiat_Standard_%28Ammous%29_interiors-FINAL-epub.xhtml#sigil_toc_id_28"/>
+    </navPoint>
+  </navMap>
+</ncx>
